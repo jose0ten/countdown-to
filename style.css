@@ -37,7 +37,8 @@ h1 {
 
 }
 
-.content {
+.music {
+    background-color: #000000;
     width: 100%;
     align-items: center;
     position: fixed;
