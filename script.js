@@ -23,7 +23,7 @@ document.getElementById("demo").innerHTML = days + "d " + hours + "h "
 // If the count down is over, write some text 
 if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "<Hello, Handsome!>";
+    document.getElementById("demo").innerHTML = "Hello, Handsome!";
 }
 }, 1000);
 
