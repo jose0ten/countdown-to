@@ -1,4 +1,4 @@
-// The date we're counting down to
+// The date we're counting down to with Brasilia timezone
 var countDownDate = new Date("Fri Apr 17 2022 16:30:00 UTC-0300 (BRT)").getTime();
 
 // Update the count down every 1 second
