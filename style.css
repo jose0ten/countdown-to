@@ -7,11 +7,7 @@ p {
     font-family: Roboto, sans-serif;
     text-align: center;
     font-size: 60px;
-    position: absolute;
-    left:50%;
-    top: 50%;
-    margin-top:-150px;
-    margin-left:-225px;
+    
     color: white;
     opacity: 90%;
 }
@@ -26,8 +22,18 @@ h1 {
     opacity: 90%;
 }
 
+#content {
+
+    position: absolute;
+    left:50%;
+    top: 50%;
+    margin-top:-150px;
+    margin-left:-225px;
+    
+
+}
+
 #header {
-    padding-top: 200px;
     width: 100%;
 }
 
