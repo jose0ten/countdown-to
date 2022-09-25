@@ -5,7 +5,7 @@ var countDownDate = new Date().getTime();
 var x = setInterval(function() {
 
 // Get today's date and time
-var now = new Date("Fri Jul 02 2022 00:00:00 UTC-0300 (BRT)").getTime();
+var now = new Date("Mon Oct 10 2022 00:00:00 UTC-0300 (BRT)").getTime();
     
 // Find the distance between now and the count down date
 var distance = countDownDate - now;
