@@ -1,5 +1,5 @@
 // The date we're counting down to with Brasilia timezone
-var countDownDate = new Date("Sat Apr 15 2023 00:00:00 UTC-0300 (BRT)").getTime();
+var countDownDate = new Date("Apr 15 2023 00:00:00 UTC-0300 (BRT)").getTime();
 
 
 // Update the count down every 1 second
